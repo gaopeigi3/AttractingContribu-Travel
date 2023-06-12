@@ -16,6 +16,7 @@ To complete the assignment, please do the following:
 
 # My Project (Anime-collection)
 Have you been to many interesting places? Is it worth visiting again? If possible, I hope you can share about it.
+
 If in japan   For example: biwako,(滋賀県)
 
 If in other country For example ：Pearl of the Orient（CHINA）
