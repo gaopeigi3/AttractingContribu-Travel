@@ -27,7 +27,7 @@ Goal - I want contributors to help me list some interesting places.
 [NAIST-SE#842
 ](https://github.com/NAIST-SE/AttractingContributors/discussions/842)
 # List of place.
-1.
+1.Sapporo,Hokkaido
 2.
 3.
 4.
