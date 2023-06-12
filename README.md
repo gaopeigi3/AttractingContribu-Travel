@@ -16,11 +16,12 @@ To complete the assignment, please do the following:
 
 # My Project (Anime-collection)
 Have you been to many interesting places? Is it worth visiting again? If possible, I hope you can share about it.
-Goal - I want contributors to help me list some interesting places.
 If in japan   For example: biwako,(滋賀県)
+
 If in other country For example ：Pearl of the Orient（CHINA）
 
-Goal - I want contributors to help me list some interesting places. 
+Goal - I want contributors to help me list some interesting places.
+
 # List of place.
 1.
 2.
