@@ -23,6 +23,9 @@ If in other country For example ：Pearl of the Orient（CHINA）
 
 Goal - I want contributors to help me list some interesting places.
 
+# Disscussion
+[NAIST-SE#842
+](https://github.com/NAIST-SE/AttractingContributors/discussions/842)
 # List of place.
 1.
 2.
