@@ -15,7 +15,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Anime-collection)
-Have you been to many interesting places? Is it worth visiting again? If possible, I hope you can share about it.
+Which place do you most want to travel to? Or Have you been to many interesting places? Is it worth visiting again? If possible, I hope you can share about it.
 
 If in japan   For example: biwako,(滋賀県)
 
