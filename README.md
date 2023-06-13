@@ -30,7 +30,7 @@ Goal - I want contributors to help me list some interesting places.
 1.Louvre Museum (Paris, France)<br/>
 2.Phuket island (Phuket, Thailand)<br/>
 3.Sifar desert (Tassili, Algeria)<br/>
-4. <br/>
+4.Sapporo, Hokkaido <br/>
 5. <br/>
 6. <br/>
 7. <br/>
