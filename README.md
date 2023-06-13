@@ -27,13 +27,13 @@ Goal - I want contributors to help me list some interesting places.
 [NAIST-SE#842
 ](https://github.com/NAIST-SE/AttractingContributors/discussions/842)
 # List of place.
-1.Louvre Museum (Paris, France)
-2.Sifar desert (Tassili, Algeria)
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.Louvre Museum (Paris, France)<br/>
+2.Phuket island (Phuket, Thailand)<br/>
+3.Sifar desert (Tassili, Algeria)<br/>
+4. <br/>
+5. <br/>
+6. <br/>
+7. <br/>
+8. <br/>
+9. <br/>
+10. <br/>
